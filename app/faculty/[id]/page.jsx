@@ -3,7 +3,7 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      welcome to admin dashboard home
+      welcome to teacher dashboard
     </div>
   )
 }
